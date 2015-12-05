@@ -1,0 +1,19 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "123",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d4rkr00t/git-test.git"
+  },
+  "author": "Stanislav Sysoev <d4rkr00t@gmail.com> (http://sysoev.org/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d4rkr00t/git-test/issues"
+  },
+  "homepage": "https://github.com/d4rkr00t/git-test#readme"
+}

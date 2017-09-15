@@ -4,8 +4,10 @@
   "description": "123",
   "main": "index.js",
   "scripts": {
+    "start":"npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "npm t"
+    "prepare": "npm t",
+    "lite":"lite-server"
   },
   "repository": {
     "type": "git",
